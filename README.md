@@ -94,8 +94,5 @@ $ npm run dev
 *** 
 ### Author
 
-[Sonam Rinzin Gurung](https://www.linkedin.com/in/sonam-rinzin-gurung-59060b211/)
+[Shaik fazil basha](https://www.linkedin.com/in/shaik-fazil-basha)
 
-### Repository
-
-[Property Plus](https://github.com/SonamRinzinGurung/Real-Estate-Rental-and-Tenant-Management-System)
